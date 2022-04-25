@@ -4,7 +4,7 @@ This is a repository for FIT5136 Software Engineering Team 14. MKSS is a subscri
 2. Subscription Management
 3. Recipe Management
 
-##Preparation for software
+## Preparation for software
 1. Download the necessary software to run applcation:
 1a. Python:
 2. Download this repository by clicking on ___ on the top right. Unzip the file.
