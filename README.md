@@ -1,5 +1,8 @@
-# FIT5136_group14
-Repository for FIT5136 Software Engineering 
+# FIT5136 Team 14 Monash Meal Kit System Prototpye
+This is a repository for FIT5136 Software Engineering Team 14. MKSS is a subscription and text-based app that will provide weekly raw food materials and recipe for students to cook in their own home. We have designed it as per the requirement of the client where there is the following features:
+1. User account
+2. Subscription Management
+3. Recipe Management
 
 ##Preparation for software
 1. Download the necessary software to run applcation:
