@@ -1,8 +1,8 @@
-mealID	title	allergen information	ingredients provided	ingredient needed	step 1	step 2	step 3	step 3	step 4
-1	Nectarine and chilli parcels	Milk	"Nectarine, chilli, pasta, meats"	"salt, pepper, water"	Wash ingredients.	"Slice Nectarine, chop chilli."	Season meat with salt & pepper.	Boil pasta in 2L of salt water for 8 minutes.	Fry nectarines and chilli then add them on top of cooked pasta.
-2	Nectarine and cardamom wontons	Milk							
-3	Tia maria salad with garlic dressing	Milk							
-4	Tenderized Olives & Mustard Veniso	 							
-5	Stuffed Dark Beer Beef								
-6	Cooked Parsnip & Pear Snappe								
-7	Chicken Fried Rice								
+MealID,Title,AllergenInformation,IngredientsProvided,IngredientNeeded,Step1,Step2,Step3,Step4
+1,Nectarine and chilli parcels,Milk," Nectarine, pasta, milk, meats"," salt,pepper,water",Wash ingredients , Slice Nectarine and chop chilli.,Season meat with salt & pepper while boiling pasta in 2L of salt water for 8 minutes.,Fry nectarines and chilli then add them on top of cooked pasta.
+2,"Nectarine and cardamom wontons	",Milk,,,,,,
+3,Tia maria salad with garlic dressing,Milk,,,,,,
+4,"Tenderized Olives & Mustard Veniso	 			",,,,,,,
+5,"Stuffed Dark Beer Beef			",,,,,,,
+6,Cooked Parsnip & Pear Snapper,,,,,,,
+7,Chicken Fried Rice,,,,,,,
